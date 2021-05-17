@@ -22,7 +22,7 @@ module.exports = {
       style: 'brands',
       icon: 'fa-twitter',
       name: 'Twitter',
-      url: 'https://twitter.com/onlyanubhav',
+      url: 'https://twitter.com/wrpg',
     },
     {
       style: 'solid',
