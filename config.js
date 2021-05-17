@@ -15,7 +15,7 @@ module.exports = {
     {
       style: 'brands',
       icon: 'fa-github',
-      name: 'Github',
+      name: 'YouTube',
       url: 'https://github.com/anubhavsrivastava',
     },
     {
