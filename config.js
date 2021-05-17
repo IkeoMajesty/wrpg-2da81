@@ -16,7 +16,7 @@ module.exports = {
       style: 'brands',
       icon: 'fa-youtube',
       name: 'YouTube',
-      url: 'https://',
+      url: 'https://www.youtube.com/c/WarsztatRPG',
     },
     {
       style: 'brands',
