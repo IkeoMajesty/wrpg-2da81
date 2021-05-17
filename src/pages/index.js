@@ -26,7 +26,7 @@ const IndexPage = () => (
       </div>
       <Scroll type="id" element="one">
         <a href="#one" className="more">
-          Learn More
+          SPRAWDŹ NAS
         </a>
       </Scroll>
     </section>
