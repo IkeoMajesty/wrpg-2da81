@@ -16,7 +16,7 @@ module.exports = {
       style: 'brands',
       icon: 'fa-youtube',
       name: 'YouTube',
-      url: 'https://github.com/anubhavsrivastava',
+      url: 'https://',
     },
     {
       style: 'brands',
